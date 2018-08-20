@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "678189838343",
+    "firebase_url": "https://aula-firebase-118a0.firebaseio.com",
+    "project_id": "aula-firebase-118a0",
+    "storage_bucket": "aula-firebase-118a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678189838343:android:2dc9cb714e47b830",
+        "android_client_info": {
+          "package_name": "digitalhouse.com.projetoaulafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678189838343-j4stkfmg7qe17j23nshemrlbqjo6066j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "digitalhouse.com.projetoaulafirebase",
+            "certificate_hash": "c96e681fc0ba73d012777605a9afe5cc69a83be1"
+          }
+        },
+        {
+          "client_id": "678189838343-3ihch6che1ofllj7g13umklhitnuru6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu5TbSwE9q19CE2Lzq5lyAcLNmgUaV8Ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678189838343-3ihch6che1ofllj7g13umklhitnuru6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
